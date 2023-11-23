@@ -26,9 +26,7 @@ Button will show "Auto_Fix_High", which is a keyword from GoogleFont. Just googl
 
 Now add more styles in the styles.css
 
-Now, add the logic of Clickme button in the script.js file. Dollar sign is the jquery line (You can check it further if you want)
-
----
+## Now, add the logic of Clickme button in the script.js file. Dollar sign is the jquery line (You can check it further if you want)
 
 Now, let's move on to add 'Cards'
 Add another class row for the card 'Kitten'
@@ -42,3 +40,5 @@ Add the code for modal now.
 
 Add Submit form in script.js
 and also add modal configuration
+
+That's it, it was that simple
