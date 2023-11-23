@@ -17,4 +17,28 @@ localhost:3000/addTwoNumbers?number1=25&number2=74
 
 For Practical 03:
 
-Get the HTML File
+Get the HTML File (page 13)
+Make the styles.css
+Add the required styles in styles.css
+
+Add the main body in the html file (next slide)
+Button will show "Auto_Fix_High", which is a keyword from GoogleFont. Just google 'Google font material icons guide' and use the href style sheet.
+
+Now add more styles in the styles.css
+
+Now, add the logic of Clickme button in the script.js file. Dollar sign is the jquery line (You can check it further if you want)
+
+---
+
+Now, let's move on to add 'Cards'
+Add another class row for the card 'Kitten'
+
+Let's add card List in scripts.js (Use the given code - just check the spellings of description)
+just add <div id = "card-section" class="row"> This will link the card section with that row.
+
+Nowww, Let's add the modal (the final thing for today)
+In the alignment add modal "<a class="waves-effect waves-light btn click-me-button modal-trigger" data-target="modal1" id="clickMeButton">
+Add the code for modal now.
+
+Add Submit form in script.js
+and also add modal configuration
