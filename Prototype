@@ -9,7 +9,7 @@
 
 3- Build some APIs on the Server, i.e., Adding some Number, etc.
 
-localhost:3000/addTwoNumbers?number1=25&number2=74
+localhost:3000/addTwoNumbers?number1=17&number2=7
 
 4- GIT Operations
 
